@@ -68,7 +68,7 @@ jupyter notebook eye_disease_classification.ipynb
 ## Sample Results
 
 <p align="center">
-  <img src="[https://drive.google.com/file/d/1R-WsM4SOQbzIkQ-GcIUsn9-TvNqW42FJ/view?usp=sharing]" />
+  <img src="https://drive.google.com/uc?export=view&id=1R-WsM4SOQbzIkQ-GcIUsn9-TvNqW42FJ" height="200"/>
 </p>
 
 ---
